@@ -9,4 +9,4 @@ Ich bin aktuell Oberstufenschüler und angehender dualer Student im Bereich **In
 
 🎯 Mein Ziel: Ich möchte nicht nur Theorie lernen, sondern schon jetzt praktische Erfahrungen sammeln – durch Projekte, die reale Probleme lösen.
 
-➡️ Fragen oder Feedback? Gerne per Mail oder direkt als Issue in einem der Repos!
+➡️ Fragen oder Feedback? Gerne per E-Mail oder direkt als Issue in einem der Repos!
