@@ -1,13 +1,23 @@
 👋 Willkommen auf meinem GitHub-Profil!
 
-Ich bin derzeit Oberstufenschüler und angehender dualer Student im Bereich Informatik – mit besonderem Interesse an Cyber Security und Wirtschaftsinformatik. Auf diesem Profil dokumentiere ich meine Lernfortschritte und eigene Projekte, mit denen ich mich gezielt auf mein Studium und den späteren Beruf vorbereite.
+Ich bin derzeit Oberstufenschüler und angehender dualer Student im Bereich Informatik – mit besonderem Interesse an Cyber Security und Wirtschaftsinformatik. Auf diesem Profil dokumentiere ich meine Lernfortschritte sowie eigene Projekte, mit denen ich mich gezielt auf mein Studium und meine spätere berufliche Laufbahn vorbereite.
 
 📌 Was du hier findest:
 
-🔐 Security-Projekte: z. B. Passwort-Checker, Log-Analyse und sicherheitsbezogene Anwendungen
-📊 Datenanalyse-Projekte: z. B. zur Inflation oder zu IT-Kosten in Unternehmen
-🛠️ Tools & Automatisierung: kleine Python-Skripte zur Vereinfachung alltäglicher Prozesse
+🔐 Security-Projekte
+Beispiele: Passwort-Checker, Log-Analyse, sicherheitsbezogene Tools
 
-🎯 Mein Ziel: Ich möchte nicht nur theoretisches Wissen aufbauen, sondern frühzeitig praktische Erfahrungen sammeln – durch Projekte, die echte Probleme lösen.
+📊 Datenanalyse-Projekte
+Beispiele: Analysen zur Inflation oder zu IT-Kosten in Unternehmen
 
-➡️ Fragen oder Feedback? Gerne per E-Mail oder direkt als Issue in einem der Repositories!
+🛠️ Tools & Automatisierung
+Beispiele: Python-Skripte zur Vereinfachung alltäglicher Abläufe
+
+🎯 Mein Ziel
+Ich möchte nicht nur theoretisches Wissen aufbauen, sondern möglichst früh praktische Erfahrung sammeln – durch Projekte, die reale Herausforderungen adressieren und Lösungen bieten.
+
+💡 Hinweis zur Projektkennzeichnung
+Alle Projekte, die (teilweise) mithilfe von Künstlicher Intelligenz erstellt wurden, sind entsprechend gekennzeichnet. Alle anderen Projekte wurden vollständig selbstständig umgesetzt.
+
+✉️ Fragen oder Feedback?
+Melde dich gerne per E-Mail oder hinterlasse ein Issue in einem der Repositories!
